@@ -189,6 +189,6 @@ return json.dumps(aa, ensure_ascii=False)
 ```
 - 在/et/systemd/system目录下重启的myflask.service服务，重启gunicorn, 完成！
 
-- 测试地址：http://39.108.91.172:9004/?inputStr=%22%E4%B9%99%E8%82%9D%E5%92%8C%E5%86%A0%E5%BF%83%E7%97%85%E9%82%A3%E4%B8%AA%E4%B8%A5%E9%87%8D%22
+- 测试地址：http://39.108.91.172:9004/?inputStr="乙肝和冠心病那个严重"
 
 - 可利用爬虫技术反复调用该接口
